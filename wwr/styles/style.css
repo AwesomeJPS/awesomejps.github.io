@@ -25,9 +25,61 @@ nav a:hover,
 .msg,
 footer{
 
-background-color: aquamarine;
+background-color: hotPink;
 
 }
+
+body {
+    background-color: red;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
+            
+nav a {
+    text-decoration: none;
+    color: blue;
+    text-align: center;
+    padding: 35px;
+}
+         
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
+
+.msg {
+    background-color: blue;
+    line-height: 1.5em;
+  }
 
 nav a,
 nav a:hover,
@@ -40,9 +92,8 @@ h4,
 footer h3,
 footer a,
 footer a:hover{
-
-color: burlywood;
-
+color: brown;
+font-family: Papyrus,fantasy; 
 }
 
 .logo,.icon{
